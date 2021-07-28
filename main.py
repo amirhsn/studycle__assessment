@@ -8,7 +8,7 @@ parser.add_argument('-i', '--input', action='store', type=int, dest='alist', nar
 try:
   args = parser.parse_args()
 except:
-  print('\n!!!!\n\nHarap masukkan input data dengan benar dan silahkan coba lagi.\n\n!!!!\n\n--help untuk bantuan')
+  print('\n!!!!\n\nHarap masukkan input data dengan benar dan silahkan coba lagi.\n\n!!!!\n')
   sys.exit()
 
 input = args.alist
