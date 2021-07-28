@@ -1,4 +1,4 @@
-# Assessment untuk apply Program Magang Bersertifikat Kampus Merdeka - Studycle
+# Assessment Untuk Apply Program Magang Bersertifikat Kampus Merdeka - Studycle
 
 ## Sekilas
 - Program sorting digunakan algoritma Bubble Sort, dibandingkan dengan penggunaan fungsi sort() secara langsung
