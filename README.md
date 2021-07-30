@@ -46,4 +46,4 @@ Nilai hasil perkalian = 35640
 
 ## Limitasi
 - Ketika error terjadi, sudah menampilkan pesan error sebagaimana mestinya, tetapi belum bisa menjalankan ulang program untuk mulai dari input lagi secara otomatis
-- Masih hanya terdapat 1 argumen saja yaitu `-i` untuk melakukan seluruh operasi (sorting, mean, median, dan hasil kali). Baiknya bisa digunakan lebih banyak argumen seperti `-mean` yang nantinya hanya akan menampilkan nilai mean saja.
+- Data yang diterima baru bisa bilangan bulat
